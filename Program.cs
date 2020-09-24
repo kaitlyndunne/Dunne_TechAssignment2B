@@ -66,14 +66,6 @@ namespace Dunne_TechAssignment2B
                 Console.WriteLine("Press any key to exit the program...");
                 Console.ReadKey(true);
             }
-
-
-
-
-
-
-
-
         }
     }
 }
